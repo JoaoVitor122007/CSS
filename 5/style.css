@@ -1,0 +1,17 @@
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+  }
+  .galeria img {
+    width: 100%;
+    max-width: 200px;
+  }
+
+  img {
+    width: 150px;
+    border-radius: 25%;
+    height: 200px;
+  }
+  
